@@ -1,0 +1,42 @@
+{
+    "sla_error": [
+        {
+            "folder": "C:\\Experian\\FolderA",
+            "sla": 1,
+            "files": [
+                {
+                    "thisFieldDoesNotExist": "Document.docx",
+                    "creationDate": "2023-10-03 15:14:26"
+                },
+                {
+                    "thisFieldDoesNotExist": "FakePDF.pdf",
+                    "creationDate": "2023-10-03 14:59:33"
+                },
+                {
+                    "thisFieldDoesNotExist": "RegularFile.txt",
+                    "creationDate": "2023-10-01 14:31:30"
+                },
+                {
+                    "thisFieldDoesNotExist": "ThisIsHidden.txt",
+                    "creationDate": "2023-10-03 14:31:30"
+                }
+            ]
+        },
+        {
+            "folder": "C:\\Experian\\FolderB",
+            "sla": 1,
+            "files": [
+                {
+                    "thisFieldDoesNotExist": "FakePDF.pdf",
+                    "creationDate": "2023-10-03 17:20:11"
+                },
+                {
+                    "thisFieldDoesNotExist": "RegularFile.txt",
+                    "creationDate": "2023-10-03 17:20:11"
+                }
+            ]
+        }
+    ],
+    "id": "116",
+    "createdAt": "2023-10-06T17:50:28.964Z"
+}

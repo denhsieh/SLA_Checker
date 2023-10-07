@@ -1,0 +1,42 @@
+{
+    "sla_error": [
+        {
+            "folder": "C:\\Experian\\FolderA",
+            "sla": 1,
+            "files": [
+                {
+                    "filename": "Document.docx",
+                    "creationDate": "2023-10-03 15:14:26"
+                },
+                {
+                    "filename": "FakePDF.pdf",
+                    "creationDate": "2023-10-03 14:59:33"
+                },
+                {
+                    "filename": "RegularFile.txt",
+                    "creationDate": "2023-10-01 14:31:30"
+                },
+                {
+                    "filename": "ThisIsHidden.txt",
+                    "creationDate": "2023-10-03 14:31:30"
+                }
+            ]
+        },
+        {
+            "folder": "C:\\Experian\\FolderB",
+            "sla": 1,
+            "files": [
+                {
+                    "filename": "FakePDF.pdf",
+                    "creationDate": "2023-10-03 17:20:11"
+                },
+                {
+                    "filename": "RegularFile.txt",
+                    "creationDate": "2023-10-03 17:20:11"
+                }
+            ]
+        }
+    ],
+    "id": "116",
+    "createdAt": "2023-10-06T17:50:28.964Z"
+}

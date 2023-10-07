@@ -1,0 +1,13 @@
+{
+    "RootPath": "C:\\Experian",
+    "SLA_Folders_List": [
+      {
+        "FolderName": "FolderA",
+        "SLA_In_Minutes": 1
+      },
+      {
+        "FolderName": "FolderB",
+        "SLA_In_Minutes": 1
+      }
+    ]
+  }
